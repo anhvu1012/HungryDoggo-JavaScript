@@ -1,6 +1,7 @@
 # HungryDoggo
-[Game screenshot here] \
-A casual web game built with pure HTML, CSS and JavaScript Canvas API
+![Game Screenshot](./game_screenshot.png)
+
+## A casual web game built with pure HTML, CSS and JavaScript Canvas API
 
 # Table of Contents
 1. Features
